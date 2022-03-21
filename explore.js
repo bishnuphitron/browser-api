@@ -7,3 +7,5 @@ const student = {
 };
 student.makeMovie('Din raat');
 // document.getElementById('name');
+
+alert('abc')
